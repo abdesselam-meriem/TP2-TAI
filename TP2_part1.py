@@ -56,5 +56,3 @@ plt.subplot(3, 3, 8); imshow_gray('XOR bitwise', xor_img)
 
 plt.tight_layout()
 plt.show()
-
-print("Partie 1 terminée — affichage des images en niveaux de gris. Rectangle :", (x0, y0, x1, y1))
